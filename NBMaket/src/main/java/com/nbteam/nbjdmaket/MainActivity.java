@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("zw 我是一个粉刷匠");
         System.out.print("zw 我是一个粉刷匠444444444444");
 
+        init();
+    }
+
+    private void init() {
+        Log.d("Main","LSW");
     }
 }
