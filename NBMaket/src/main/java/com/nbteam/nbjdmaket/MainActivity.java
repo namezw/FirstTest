@@ -17,5 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
         Log.d("Main","LSW");
+        Log.d("Main","LSW again");
+
     }
 }
