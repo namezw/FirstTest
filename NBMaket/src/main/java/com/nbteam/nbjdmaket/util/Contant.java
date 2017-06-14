@@ -6,4 +6,5 @@ package com.nbteam.nbjdmaket.util;
 
 public class Contant {
     public  static  final String HOST="http://139.199.157.18/market/home";
+    public  static  final String HOSTS="http://139.199.157.18/market/home";//szx
 }
