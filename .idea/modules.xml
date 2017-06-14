@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/FirstTest.iml" filepath="$PROJECT_DIR$/FirstTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBJDMaket.iml" filepath="$PROJECT_DIR$/NBJDMaket.iml" />
       <module fileurl="file://$PROJECT_DIR$/NBMaket/NBMaket.iml" filepath="$PROJECT_DIR$/NBMaket/NBMaket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBMaket/NBMaket.iml" filepath="$PROJECT_DIR$/NBMaket/NBMaket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hyl.iml" filepath="$PROJECT_DIR$/hyl.iml" />
     </modules>
   </component>
 </project>

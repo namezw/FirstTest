@@ -1,8 +1,10 @@
-package com.nbteam.nbjdmaket;
+package com.nbteam.nbjdmaket.;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+
+import com.nbteam.nbjdmaket.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("zw 我是一个粉刷匠");
         System.out.print("zw 我是一个粉刷匠444444444444");
         System.out.print("zw 是逗逼");
+        System.out.print("测试测试测试");
 
         init();
     }
