@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("zw 我是一个粉刷匠444444444444");
         System.out.print("zw 我是一个粉刷匠555");
         System.out.print("第一次测试");
+        System.out.print("改名");
         init();
     }
 
